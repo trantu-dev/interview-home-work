@@ -1,42 +1,47 @@
 [
   {
-    "id": 1,
+    "_id": "5e61572d46395f1a1422df45",
     "username": "meowmeow",
+    "role": "user",
     "password": "1234567890",
     "name": "Cat face",
     "dob": "01/06/2016",
     "created_at": 1576506719083
   },
   {
-    "id": 2,
+    "_id": "5e61572d46395f1a1422df46",
     "username": "angrybird",
+    "role": "user",
     "password": "!@#$%^&*()",
     "name": "Angry bird",
     "dob": "13/12/2016",
     "created_at": 1576506719083
   },
   {
-    "id": 3,
+    "_id": "5e61572d46395f1a1422df47",
     "username": "happydog",
+    "role": "user",
     "password": "Zigvy~~~",
     "name": "",
-    "dob": "",
+    "dob": "11/12/2016",
     "created_at": 1576506719083
   },
   {
-    "id": 4,
+    "_id": "5e61572d46395f1a1422df48",
     "username": "admin",
+    "role": "admin",
     "password": "admin",
     "name": "",
-    "dob": "",
+    "dob": "3/12/2016",
     "created_at": 1576506719083
   },
   {
-    "id": 5,
+    "_id": "5e61572d46395f1a1422df49",
     "username": "user",
+    "role": "user",
     "password": "user",
     "name": "",
-    "dob": "",
+    "dob": "23/12/2016",
     "created_at": 1576506719083
   }
 ]
